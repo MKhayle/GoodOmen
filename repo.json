@@ -15,8 +15,8 @@
 			"aoe",
 			"color"
 		],
-		"DownloadLinkInstall": "https://github.com/MKhayle/GoodOmen/releases/download/vtest/latest.zip",
-		"DownloadLinkTesting": "https://github.com/MKhayle/GoodOmen/releases/download/vtest/latest.zip",
-		"DownloadLinkUpdate": "https://github.com/MKhayle/GoodOmen/releases/download/vtest/latest.zip"
+		"DownloadLinkInstall": "https://github.com/MKhayle/GoodOmen/releases/download/v0.2.2/latest.zip",
+		"DownloadLinkTesting": "https://github.com/MKhayle/GoodOmen/releases/download/v0.2.2/latest.zip",
+		"DownloadLinkUpdate": "https://github.com/MKhayle/GoodOmen/releases/download/v0.2.2/latest.zip"
 	}
 ]
