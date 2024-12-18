@@ -1,7 +1,7 @@
 <Project Sdk="Dalamud.NET.Sdk/11.0.0">
 	<PropertyGroup>
 		<Authors>Chirp</Authors>
-		<Version>0.1.1.0</Version>
+		<Version>0.2.2</Version>
 	</PropertyGroup>
 
 	<PropertyGroup>
