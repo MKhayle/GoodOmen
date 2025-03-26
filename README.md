@@ -7,7 +7,7 @@ This is an early implementation that will be refined in later versions.
 
 ## Bug Reports
 
-Bugs should be reported as [GitHub issues](https://github.com/chirpxiv/GoodOmen/issues), which helps me to easily keep track of them. I am unlikely to see direct messages.
+Bugs should be reported as [GitHub issues](https://github.com/MKhayle/GoodOmen/issues), which helps me to easily keep track of them. I am unlikely to see direct messages.
 
 ## Installation
 
@@ -15,6 +15,6 @@ This is a plugin for Dalamud, which is available using [XIVLauncher](https://git
 
 Add the following repo URL under **Custom Plugin Repositories** in your Dalamud settings:
 
-`https://raw.githubusercontent.com/chirpxiv/GoodOmen/refs/heads/main/repo.json`
+`https://raw.githubusercontent.com/MKhayle/GoodOmen/refs/heads/main/repo.json`
 
 After installing, you can type the `/goodomen` command to access the plugin's settings.
