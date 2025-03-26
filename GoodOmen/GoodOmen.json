@@ -6,7 +6,7 @@
 	"InternalName": "GoodOmen",
 	"AssemblyVersion": "0.2.2",
 	"ApplicableVersion": "any",
-	"DalamudApiLevel": 11,
+	"DalamudApiLevel": 12,
 	"Tags": [
 		"omen",
 		"aoe",
